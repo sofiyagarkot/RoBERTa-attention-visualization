@@ -1,0 +1,11 @@
+Ligand
+[H]/N=C(/c1ccc(cn1)CNC(=O)[C@@H]2C=CCN2C(=O)[C@@H](CC3CCCCC3)NCC(=O)O)N
+CCOC(=O)[C@@H](Cc1ccc2ccc(cc2c1)C(N)N)c3ccc(OC4CCNC4)cc3
+CC1=CC(=CC(=C1)OCCNC2=CC=[NH+]C=C2)NS(=O)(=O)C3=CC=CC=C3
+NC(=N)NCCCNC(=O)[C@@H]1CS[C@H]2CC[C@@H](N[S](=O)(=O)Cc3ccccc3)C(=O)N12
+[NH3+]C(CO)(CO)CO
+O=C(N(CC)CC)c3cc(c1cc2c(cc1)C(C(C(=O)O)CCCCC(=[N@H])N)C(O)C2)ccc3
+NC(=N)CCCC[C@H]([C@@H]1[C@@H](O)Cc2ccc(cc12)c3ccc(O)cc3)C(O)=O
+COc1cccc(c1)c2ccc3[C@@H]([C@@H](O)Cc3c2)[C@@H](CCCCC(N)=N)C(O)=O
+CC(=O)N[C@H]1[C@@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O
+O=C(NC(CCCNC(=[NH2+])\N)C(O)CCl)C2N(C(=O)C(N)Cc1ccccc1)CCC2
